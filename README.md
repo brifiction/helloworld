@@ -1,4 +1,6 @@
 # helloworld
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc7a806be57540cbae66c17730c8330d)](https://www.codacy.com/app/brifiction/helloworld?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=brifiction/helloworld&amp;utm_campaign=Badge_Grade)
+
 this is a hello world package. nothing special, mainly a packagist testing repository.
 
 # installation
