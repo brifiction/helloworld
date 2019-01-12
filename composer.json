@@ -15,8 +15,15 @@
     },
     "autoload": {
         "psr-4": {
-            "brifiction\\helloworld\\": "src/"
+            "brifiction\\helloworld\\": "brifiction/helloworld/src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "brifiction\\helloworld\\HelloWorldServiceProvider"
+            ]
+        }
+    }
 }
