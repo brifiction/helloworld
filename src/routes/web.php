@@ -1,6 +1,6 @@
 <?php
 
 // reserved route for helloworld
-Route::get('helloworld', function(){
-    return view('helloworld::index');
+Route::group(['namespace' => 'brifiction\helloworld\Http\Controllers', 'middleware' => ['web']], function () {
+    Route::get('helloworld', 'HelloWorldController@index');
 });
