@@ -1,5 +1,5 @@
 <?php
 
 Route::get('helloworld', function(){
-    return 'Hello World!';
+    return view('helloworld::index');
 });
