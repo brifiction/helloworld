@@ -1,6 +1,8 @@
 {
     "name": "brifiction/helloworld",
     "description": "entwurfhaus helloworld package",
+    "keywords": [],
+    "homepage": "https://entwurfhaus.com",
     "license": "MIT",
     "authors": [
         {
@@ -8,11 +10,13 @@
             "email": "brianngchongeu@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "^7.1.3"
+    },
     "autoload": {
         "psr-4": {
             "brifiction\\helloworld\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
