@@ -6,7 +6,7 @@ open terminal, run `composer require brifiction/helloworld`.
 
 in your laravel application, open & edit `config/app.php`
 
-import the hello world service provider like below and save.
+optional: import the hello world service provider like below and save.
 
 ````
     'providers' => [
