@@ -20,11 +20,11 @@ optional: import the hello world service provider like below and save.
 
 then, run `php artisan serve --port 8010`.
 
-type in url http://localhost:8010/helloworld.
+type in url [http://localhost:8010/helloworld](http://localhost:8010/helloworld).
 
 that's it! :thumbsup:
 
 # website
-company: https://entwurfhaus.com
+company: [https://entwurfhaus.com](https://entwurfhaus.com)
 
-personal: https://brianngchongeu.com
+personal: [https://brianngchongeu.com](https://brianngchongeu.com)
