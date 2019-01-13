@@ -28,3 +28,8 @@ that's it! :thumbsup:
 company: [https://entwurfhaus.com](https://entwurfhaus.com)
 
 personal: [https://brianngchongeu.com](https://brianngchongeu.com)
+
+# donate
+buy me a :coffee: | :beer: , they help me go fast!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/entwurfhaus)
